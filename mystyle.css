@@ -1,0 +1,79 @@
+/* Style the header */
+.header {
+  background-color: #347B98;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+    left: 8px;
+  right: 8px;
+  color: lightgrey;
+  height: 120px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #FC7307;
+  position: fixed;
+  top: 150px;
+  left: 8px;
+  right: 8px;
+  text-decoration: none;
+}
+
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: lightgrey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;  
+  font-weight: bold;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #FCCB1A;
+  color: black; 
+}
+
+h1  {
+  font-family: Arial, Verdana, sans-serif;
+  margin: 5px;
+}
+h2 {
+  font-family: Arial, Verdana, sans-serif;
+    margin: 5px;
+}
+h3 {
+  font-family: Arial, Verdana, sans-serif;
+    margin: 5px;
+}
+a {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+p {
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 20px;
+}
+
+.main {
+  background-color: beige;
+  padding: 20px;
+  padding-top: 190px;
+  text-align: left;
+  color: #2F4F4F;
+  /*background: url(robotnik.jpg) 100% 100% no-repeat; */
+}
+
+li {
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 18px;
+}  
+}
+
+
